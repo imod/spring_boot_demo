@@ -1,0 +1,6 @@
+encrypt:
+  key: ${ENCRYPT_KEY:dummy}
+
+my:
+  password: '{cipher}c6e87846e7155dc7d86d5b850d8c8551c5fe41b625acdee4c85e7ef3a68a719f'
+      
